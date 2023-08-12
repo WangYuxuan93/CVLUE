@@ -1,0 +1,38 @@
+[
+    {
+        "image_id" : 1,
+        "image" : "/work/experiments/transformers/data/vd_data/train-1.jpg",
+        "caption" : "一个红色的巴士停在路边。",
+        "dialog_id" : 0,
+        "question": 0,
+        "answer_options":[0,1,2,3],
+        "answer" : 1
+    },
+    {
+        "image_id" : 1,
+        "image" : "/work/experiments/transformers/data/vd_data/train-1.jpg",
+        "caption" : "一个红色的巴士停在路边。",
+        "dialog_id" : 1,
+        "question": 1,
+        "answer_options":[4,5,6,7],
+        "answer" : 4
+    },
+    {
+        "image_id" : 2,
+        "image" : "/work/experiments/transformers/data/vd_data/train-2.jpg",
+        "caption" : "海滩上有一些椅子。",
+        "dialog_id" : 0,
+        "question": 2,
+        "answer_options":[8,9,10,11],
+        "answer" : 9
+    },
+    {
+        "image_id" : 2,
+        "image" : "/work/experiments/transformers/data/vd_data/train-2.jpg",
+        "caption" : "海滩上有一些椅子。",
+        "dialog_id" : 1,
+        "question": 3,
+        "answer_options":[12,13,14,15],
+        "answer" : 12
+    }
+]

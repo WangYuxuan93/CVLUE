@@ -1,0 +1,22 @@
+{
+    "dialogs": 
+    [
+        {
+            "image_id": 1,
+            "dialog":
+            [{
+                "answer":1,
+                "gt_index":1,
+                "question":1,
+                "answer_options": [],
+                "caption":""
+            }]
+        }
+    ],
+    "answers":
+    [
+    ],
+    "questions":
+    [
+    ]
+}

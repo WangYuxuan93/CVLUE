@@ -1,0 +1,6 @@
+[
+    {"image": "/work/experiments/transformers/data/itr_data/train-1.jpg", "caption": "一个人。"},
+    {"image": "/work/experiments/transformers/data/itr_data/train-2.jpg", "caption": "两只在奔跑的狗。"},
+    {"image": "/work/experiments/transformers/data/itr_data/train-3.jpg", "caption": "三只坐着的猫。"},
+    {"image": "/work/experiments/transformers/data/itr_data/train-4.jpg", "caption": "一个在喝酒的男人。"}
+]
