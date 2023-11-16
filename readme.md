@@ -1,4 +1,4 @@
-# <p align="center"><font size=50><strong>CCL24-Eval 中文图文多模态理解评测任务务</strong></font></p>
+# <p align="center"><font size=50><strong>CCL24-Eval 中文图文多模态理解评测任务</strong></font></p>
 
 #### 组织者：
 - 万志国，邮箱：wanzhiguo@zhejianglab.com（之江实验室）
