@@ -1,16 +1,5 @@
 # <p align="center"><font size=50><strong>CCL24-Eval 中文图文多模态理解评测任务</strong></font></p>
 
-#### 组织者：
-- 万志国，邮箱：wanzhiguo@zhejianglab.com（之江实验室）
-- 王宇轩，邮箱：yxwang@zhejianglab.com（之江实验室）
-- 车万翔，邮箱：car@ir.hit.edu.cn（哈尔滨工业大学）
-
-#### 负责人【负责和评测委员会沟通】：
-- 王宇轩，邮箱：yxwang@zhejianglab.com，电话：18745146525
-
-#### 联系人【负责和参赛队伍联系】：
-- 刘议骏，邮箱：yijunliu@ir.hit.edu.cn（哈尔滨工业大学）
-
 ## 任务介绍
 
 中文图文多模态理解评测（Chinese Vision-Language Understanding Evaluation，CVLUE）任务旨在从图文检索（Image-Text Retrieval）、视觉问答（Visual Question Answering）、视觉定位（Visual Grounding）和视觉对话（Visual Dialog）等四个任务多角度评价中文图文多模态预训练模型的图文多模态建模和理解能力。该任务包含以下5个子任务：
@@ -109,42 +98,6 @@
         </tr>
     </table> 
 </center>
-
-### 数据来源及数量
-
-该所有子任务均由中文使用者使用中文标注，部分子任务标注在收尾阶段，后续还可能增加数百个数据，目前各子任务数据量统计如下：
-
-<center>
-    <table>
-        <tr >
-        <td align="center"> <b>任务</b></td>
-        <td align="center"> <b>训练集 + 验证集</b></td>
-        <td align="center"> <b>测试集</b></td> 
-        </tr>
-        <tr>
-        <td align="center">图文检索</td>
-        <td align="center">29522</td>
-        <td align="center">11525</td>
-        </tr>
-        <tr>
-        <td align="center">视觉问答</td>
-        <td align="center">24252</td>
-        <td align="center">6136</td>
-        </tr>
-        <tr>
-        <td align="center">视觉定位</td>
-        <td align="center">18134</td>
-        <td align="center">6006</td>
-        </tr>
-        <tr>
-        <td align="center">视觉对话</td>
-        <td align="center">5849</td>
-        <td align="center">3001</td>
-        </tr>
-    </table> 
-</center>
-
-__注：其中训练+开发数据需要参赛者签订承诺保证书，仅用于中文图文多模态预训练模型科研用途，不得用于商业或其他用途。测试集将开源。__ 
 
 ### 数据样例
 
@@ -296,17 +249,3 @@ __参赛模型的最终评测成绩取上述所有评价指标的宏平均值。
         </tr>
     </table> 
 </center>
-
-## 资助情况
-
-计划评出一等奖1名，二等奖2-3名，三等奖2-3名。<br>
-暂无资助计划。
-
-## 网站建设与论文评审
-
-筹备中，预计2023年12月上线。<br>
-https://github.com/WangYuxuan93/CVLUE
-
-## 论文格式 
-
-会议投稿需统一使用 LaTeX 模板。提交的论文最多包含 6 页正文，参考文献页数不限。由于本次会议采用双盲审稿，作者姓名和单位不能出现在投稿的论文中。因此，作者的自引不可采用“我们提出”的方式，而是用“作者名字提出…”。不符合这些要求的论文将不经过完整的审稿流程而直接被拒稿。
