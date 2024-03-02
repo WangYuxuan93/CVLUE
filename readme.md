@@ -249,3 +249,19 @@ __参赛模型的最终评测成绩取上述所有评价指标的宏平均值。
         </tr>
     </table> 
 </center>
+
+## 报名方式
+
+选手可通过点击下方链接或扫描二维码进行报名
+
+【腾讯文档】CCL评测任务9：中文图文多模态理解评测任务报名表 https://docs.qq.com/form/page/DTG9FdlFwT2h3ZHFJ
+
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="报名表.jpg">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+</center>
