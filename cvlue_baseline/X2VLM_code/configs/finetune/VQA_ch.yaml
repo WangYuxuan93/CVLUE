@@ -1,0 +1,50 @@
+
+train_file: ['../../new_dataset/VQA/new_VQA_train.json',]
+valid_file: ['../../new_dataset/VQA/new_VQA_val.json']
+
+answer_list: '../../new_dataset/VQA/answer_list.json'
+vqa_root: '../../pics/'
+
+
+# zero-shot test set
+
+
+test_file: {
+  'ch': [ '../../new_dataset/VQA/new_VQA_test.json',
+        '../../new_dataset/VQA/new_VQA_test.json' ],
+}
+
+## Vision Encoder
+use_beit_v2: True
+vision_config: 'configs/config_beit2_base.json'
+image_res: 768
+patch_size: 16
+
+
+model_type: 'CrossViewLM'
+text_encoder: 'data/xlm-roberta-base'
+text_num_hidden_layers: 12
+cross_encoder: 'data/bert-base-uncased'
+cross_num_hidden_layers: 6
+
+text_fusion_start_at: 12
+
+is_xvlm_ckpt: True
+xvlm_ckpt_text_num_hidden_layers: 12  # if is_xvlm_ckpt
+replace_text_encoder: True
+
+
+## Training
+num_dec_layers: 6
+large_lr_for_dec: True
+batch_size_train: 8  # x32 a100
+accumulate_steps: 16
+batch_size_test: 1
+max_tokens: 40
+k_test: 128
+
+
+## Other Settings
+optimizer: {opt: adamW, lr: 3e-5, weight_decay: 0.01, lr_mult: 2, vision_lr: 2e-5, text_lr: 2e-5}
+schedular: {sched: linear, epochs: 5, num_warmup_steps: 0.05}
+start_eval: 0  # epoch index

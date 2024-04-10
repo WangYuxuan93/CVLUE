@@ -1,0 +1,49 @@
+
+
+train_file: ['../../new_dataset/cvlue_new/vd/cvlue_vd_train_new.json',]
+valid_file: ['../../new_dataset/cvlue_new/vd/cvlue_vd_val_new.json']
+
+
+train_answer_list: '../../new_dataset/cvlue_new/vd/cvlue_vd_train_answers.json'
+valid_answer_list: '../../new_dataset/cvlue_new/vd/cvlue_vd_val_answers.json'
+test_answer_list: '../../new_dataset/cvlue_new/vd/cvlue_vd_test_answers.json'
+vqa_root: '../../pics'
+
+
+# zero-shot test set
+
+test_file: {
+  'ch': [ '../../new_dataset/cvlue_new/vd/cvlue_vd_test_split.json', '../../new_dataset/cvlue_new/vd/cvlue_vd_test_split.json']
+}
+
+
+
+## Vision Encoder
+use_beit_v2: True
+vision_config: 'configs/config_beit2_base.json'
+image_res: 384
+patch_size: 16
+
+
+model_type: 'CrossViewLM'
+text_encoder: 'data/xlm-roberta-base'
+text_num_hidden_layers: 12
+cross_encoder: 'data/bert-base-uncased'
+cross_num_hidden_layers: 6
+
+text_fusion_start_at: 12
+
+## Training
+num_dec_layers: 6
+large_lr_for_dec: True
+batch_size_train: 8  # x32 a100
+accumulate_steps: 16
+batch_size_test: 1
+max_tokens: 512
+k_test: 100
+
+
+## Other Settings
+optimizer: {opt: adamW, lr: 3e-5, weight_decay: 0.01, lr_mult: 2, vision_lr: 2e-5, text_lr: 2e-5}
+schedular: {sched: linear, epochs: 10, num_warmup_steps: 0.05}
+start_eval: 0  # epoch index

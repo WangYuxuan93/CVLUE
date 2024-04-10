@@ -1,0 +1,38 @@
+[
+    {
+        "image": "pics/mosaiced-nocopy/A/1-panda/A-1-218.png",
+        "question_id": 652,
+        "question": "三只熊猫大小相同吗",
+        "answer": "否"
+      },
+      {
+        "image": "pics/mosaiced-nocopy/A/1-panda/A-1-218.png",
+        "question_id": 653,
+        "question": "上方大熊猫抱住站起的大熊猫的什么部位？",
+        "answer": "头部"
+      },
+      {
+        "image": "pics/mosaiced-nocopy/A/1-panda/A-1-218.png",
+        "question_id": 654,
+        "question": "最下面的熊猫躺在哪里？",
+        "answer": "草地上"
+      },
+      {
+        "image": "pics/mosaiced-nocopy/A/14-noodles/A-14-202.png",
+        "question_id": 9241,
+        "question": "什么方位的碗里有虾仁",
+        "answer": "左上方"
+      },
+      {
+        "image": "pics/mosaiced-nocopy/A/14-noodles/A-14-202.png",
+        "question_id": 9242,
+        "question": "左下方的盘子里装的是肉还是蔬菜",
+        "answer": "肉"
+      },
+      {
+        "image": "pics/mosaiced-nocopy/A/14-noodles/A-14-202.png",
+        "question_id": 9243,
+        "question": "这两碗面是汤面还是拌面",
+        "answer": "汤面"
+      }
+]
