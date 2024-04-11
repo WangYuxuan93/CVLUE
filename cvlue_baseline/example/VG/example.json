@@ -1,7 +1,7 @@
 [
     {
         "ref_id": 24577,
-        "image": "pics/mosaiced-nocopy/A/4-dog/A-4-1.png",
+        "image": "images/train-valid/A/4-dog/A-4-1.png",
         "text": "离货架最近偏白色的狗",
         "width": 837,
         "height": 551,
@@ -14,7 +14,7 @@
       },
       {
         "ref_id": 24578,
-        "image": "pics/mosaiced-nocopy/A/4-dog/A-4-1.png",
+        "image": "images/train-valid/A/4-dog/A-4-1.png",
         "text": "最左边身体偏黄的狗",
         "width": 837,
         "height": 551,
@@ -27,7 +27,7 @@
       },
       {
         "ref_id": 884,
-        "image": "pics/mosaiced-nocopy/A/70-lion_dance/A-70-28.png",
+        "image": "images/train-valid/A/70-lion_dance/A-70-28.png",
         "text": "头部被截断且舞狮人员穿着黑色袜子的舞狮",
         "width": 896,
         "height": 666,
@@ -40,7 +40,7 @@
       },
       {
         "ref_id": 885,
-        "image": "pics/mosaiced-nocopy/A/70-lion_dance/A-70-28.png",
+        "image": "images/train-valid/A/70-lion_dance/A-70-28.png",
         "text": "舞狮人员穿着白色袜子且头顶戴着绿色花的舞狮",
         "width": 896,
         "height": 666,
@@ -53,7 +53,7 @@
       },
       {
         "ref_id": 886,
-        "image": "pics/mosaiced-nocopy/A/70-lion_dance/A-70-28.png",
+        "image": "images/train-valid/A/70-lion_dance/A-70-28.png",
         "text": "离镜头最近且眼球是黑色的舞狮",
         "width": 896,
         "height": 666,
@@ -66,7 +66,7 @@
       },
       {
         "ref_id": 891,
-        "image": "pics/mosaiced-nocopy/A/59-spatula/A-59-88.png",
+        "image": "images/train-valid/A/59-spatula/A-59-88.png",
         "text": "挂在墙上离漏勺近的锅铲",
         "width": 844,
         "height": 706,
@@ -79,7 +79,7 @@
       },
       {
         "ref_id": 892,
-        "image": "pics/mosaiced-nocopy/A/59-spatula/A-59-88.png",
+        "image": "images/train-valid/A/59-spatula/A-59-88.png",
         "text": "挂在墙上的黑色锅铲",
         "width": 844,
         "height": 706,

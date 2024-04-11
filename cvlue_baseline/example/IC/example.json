@@ -1,7 +1,7 @@
 
 [
     {
-    "image": "pics/mosaiced-nocopy/B/1-panda/B-1-250.png",
+    "image": "images/train-valid/B/1-panda/B-1-250.png",
     "caption": [
       "木床上有一只熊猫",
       "水果堆的旁边躺着一只大熊猫",
@@ -12,7 +12,7 @@
     "image_id": 9038
   },
   {
-    "image": "pics/mosaiced-nocopy/B/2-cow/B-2-340.png",
+    "image": "images/train-valid/B/2-cow/B-2-340.png",
     "caption": [
       "水里有三头牛，岸上也有一群马和几头牛",
       "长着绿色植物的田边上有一些马和牛",
@@ -23,7 +23,7 @@
     "image_id": 21302
   },
   {
-    "image": "pics/mosaiced-nocopy/A/3-fish/A-3-186.png",
+    "image": "images/train-valid/A/3-fish/A-3-186.png",
     "caption": [
       "玻璃旁有一只白色的鱼和一只黑色的鱼",
       "一只鱼在水中游着一只鱼停在黑色的水棉垫上",
@@ -34,7 +34,7 @@
     "image_id": 14443
   },
   {
-    "image": "pics/mosaiced-nocopy/A/4-dog/A-4-1.png",
+    "image": "images/train-valid/A/4-dog/A-4-1.png",
     "caption": [
       "白色牌子的前面两只狗看着相同的方向",
       "棒棒糖的前面有两只狗",
