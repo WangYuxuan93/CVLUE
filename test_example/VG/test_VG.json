@@ -1,0 +1,56 @@
+[
+    {
+      "ref_id": 2649,
+      "image": "images/val/A/84-suona/A-84-326.png",
+      "text": "戴着手边的人吹着的唢呐",
+      "width": 629,
+      "height": 889,
+      "bbox": [
+      ]
+    },
+    {
+      "ref_id": 2650,
+      "image": "images/val/A/84-suona/A-84-326.png",
+      "text": "穿着黑色短袖的男人吹着的唢呐",
+      "width": 629,
+      "height": 889,
+      "bbox": [
+      ]
+    },
+    {
+      "ref_id": 18371,
+      "image": "images/val/A/84-suona/A-84-283.png",
+      "text": "穿红色裙子的人手里拿的唢呐",
+      "width": 1246,
+      "height": 830,
+      "bbox": [
+      ]
+    },
+    {
+      "ref_id": 18372,
+      "image": "images/val/A/84-suona/A-84-283.png",
+      "text": "穿灰色外套的人手里拿的唢呐",
+      "width": 1246,
+      "height": 830,
+      "bbox": [
+      ]
+    },
+    {
+      "ref_id": 25311,
+      "image": "images/val/A/84-suona/A-84-153.png",
+      "text": "靠近新娘那边那个男士手里的唢呐",
+      "width": 1247,
+      "height": 931,
+      "bbox": [
+      ]
+    },
+    {
+      "ref_id": 25312,
+      "image": "images/val/A/84-suona/A-84-153.png",
+      "text": "靠近后面有花的男士手里的唢呐",
+      "width": 1247,
+      "height": 931,
+      "bbox": [
+      ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+      "image": "images/val/A/84-suona/A-84-326.png",
+      "question_id": 66376,
+      "question": "灯是关着的吗？",
+      "answer": "是的"
+    },
+    {
+      "image": "images/val/A/84-suona/A-84-326.png",
+      "question_id": 66377,
+      "question": "唢呐是被人拿在手里还是被放在地上？",
+      "answer": "被人拿在手里"
+    },
+    {
+      "image": "images/val/A/84-suona/A-84-326.png",
+      "question_id": 66378,
+      "question": "有几个唢呐？",
+      "answer": "2个"
+    },
+    {
+      "image": "images/val/A/84-suona/A-84-283.png",
+      "question_id": 66247,
+      "question": "有几个人在吹唢呐？",
+      "answer": "2"
+    },
+    {
+      "image": "images/val/A/84-suona/A-84-283.png",
+      "question_id": 66248,
+      "question": "穿白色衣服的人是站着还是坐着？",
+      "answer": "坐着"
+    },
+    {
+      "image": "images/val/A/84-suona/A-84-283.png",
+      "question_id": 66249,
+      "question": "他们是在室内还是在室外？",
+      "answer": "室外"
+    },
+    {
+      "image": "images/val/A/84-suona/A-84-153.png",
+      "question_id": 65866,
+      "question": "有几个吹唢呐的人？",
+      "answer": "3"
+    },
+    {
+      "image": "images/val/A/84-suona/A-84-153.png",
+      "question_id": 65867,
+      "question": "两个吹唢呐的人穿的是少数民族服饰吗？",
+      "answer": "是"
+    },
+    {
+      "image": "images/val/A/84-suona/A-84-153.png",
+      "question_id": 65868,
+      "question": "穿婚纱的女人在两个吹唢呐的人的哪一边？",
+      "answer": "右边"
+    }
+]
