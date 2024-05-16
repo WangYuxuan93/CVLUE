@@ -32,13 +32,12 @@ for item in tqdm(results):
 
     check_image[str(image_id)][tmp_dialog_id] = 1
 
-    pred_rank = pred.index(int(gold))
-
-    if pred_rank < 1:
+    topk_ids = pred[:10]
+    if int(gold) == topk_ids[0]:
         n_1 += 1
-    if pred_rank < 5:
+    if int(gold) in topk_ids[:5]:
         n_5 += 1
-    if pred_rank < 10:
+    if int(gold) in topk_ids[:10]:
         n_10 += 1
     
     num_ += 1
