@@ -262,6 +262,5 @@ __参赛模型的最终评测成绩取上述所有评价指标的宏平均值。
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    padding: 2px;">评测结果</div>
 </center>
 
