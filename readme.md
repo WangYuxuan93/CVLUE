@@ -1,5 +1,7 @@
 # <p align="center"><font size=50><strong>CCL24-Eval 中文图文多模态理解评测任务</strong></font></p>
 
+[English Version](readme_en.md)
+
 ## 任务介绍
 
 中文图文多模态理解评测（Chinese Vision-Language Understanding Evaluation，CVLUE）任务旨在从图文检索（Image-Text Retrieval）、视觉问答（Visual Question Answering）、视觉定位（Visual Grounding）和视觉对话（Visual Dialog）等四个任务多角度评价中文图文多模态预训练模型的图文多模态建模和理解能力。该任务包含以下5个子任务：
