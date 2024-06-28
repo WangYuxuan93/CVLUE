@@ -2,34 +2,9 @@
  {
   "image_id": 403,
   "image": "images/val/B/3-fish/B-3-201.png",
-  "dialog": [
-   {
-    "question": 3761,
-    "answer": 3966
-   },
-   {
-    "question": 3762,
-    "answer": 3967
-   },
-   {
-    "question": 3763,
-    "answer": 3968
-   },
-   {
-    "question": 3764,
-    "answer": 3969
-   },
-   {
-    "question": 3765,
-    "answer": 3970
-   },
-   {
-    "question": 3766,
-    "answer": 3971
-   },
-   {
-    "question": 3768,
-    "answer_sort": [
+  "dialog_id": 7,
+  "question": 3768,
+  "answer_sort": [
      3973,
      13717,
      8547,
@@ -131,33 +106,13 @@
      24613,
      6081
     ]
-   }
-  ],
-  "caption": "白色的柜子放着一个鱼缸，缸里游着四条鱼"
  },
  {
   "image_id": 536,
   "image": "images/val/B/1-panda/B-1-295.png",
-  "dialog": [
-   {
-    "question": 5037,
-    "answer": 5287
-   },
-   {
-    "question": 5038,
-    "answer": 5288
-   },
-   {
-    "question": 5039,
-    "answer": 5289
-   },
-   {
-    "question": 5040,
-    "answer": 5290
-   },
-   {
-    "question": 5042,
-    "answer_sort": [
+  "dialog_id": 5,
+  "question": 5042,
+  "answer_sort": [
      22753,
      23242,
      16469,
@@ -259,8 +214,5 @@
      2516,
      17753
     ]
-   }
-  ],
-  "caption": "大熊猫的旁边站着一个人"
  }
 ]
