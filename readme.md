@@ -219,6 +219,24 @@ $$ R@k=\frac{正确结果在检索排名前 k 的样本个数}{全部样本个�
 
 __参赛模型的最终评测成绩取上述所有评价指标的宏平均值。__
 
+
+## 数据获取和引用
+
+CVLUE数据在CC BY-NC-ND 4.0许可证下可免费申请获取。请通过 [Google 表单](https://docs.google.com/forms/d/e/1FAIpQLSfPfYq0bhjG4QRjssefrD5jM4F8obhYQG1XQxlaPlXqspFcAA/viewform?usp=sf_link)提交您的申请。
+
+如果您使用CVLUE数据，请引用如下论文：
+
+```
+@misc{wang-etal-2024-cvlue,
+    title={CVLUE: A New Benchmark Dataset for Chinese Vision-Language Understanding Evaluation},
+    author={Yuxuan Wang and Yijun Liu and Fei Yu and Chen Huang and Kexin Li and Zhiguo Wan and Wanxiang Che},
+    year={2024},
+    eprint={2407.01081},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
+
 ## 评测赛程
 
 具体赛程安排如下：

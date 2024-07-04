@@ -219,4 +219,19 @@ For the visual dialog task, the evaluation metric is Recall $ R@k（k = 1, 5, 10
 $$ R@k=\frac{Number\ of\ correct\ results\ in\ the\ top\ k\ retrieval\ rankings}{Total\ number\ of\ samples} $$
 
 
+## Data Access and Citation
 
+The CVLUE data is freely available upon request under the CC BY-NC-ND 4.0 license. Please submit your request via [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPfYq0bhjG4QRjssefrD5jM4F8obhYQG1XQxlaPlXqspFcAA/viewform?usp=sf_link).
+
+If you use the CVLUE data, please cite the following paper:
+
+```
+@misc{wang-etal-2024-cvlue,
+    title={CVLUE: A New Benchmark Dataset for Chinese Vision-Language Understanding Evaluation},
+    author={Yuxuan Wang and Yijun Liu and Fei Yu and Chen Huang and Kexin Li and Zhiguo Wan and Wanxiang Che},
+    year={2024},
+    eprint={2407.01081},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+```
