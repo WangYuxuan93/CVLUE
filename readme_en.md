@@ -12,8 +12,6 @@ The Chinese Vision-Language Understanding Evaluation (CVLUE) task aims to evalua
 
 ## Evaluation Data
 
-The CVLUE data is freely available upon request under the CC BY-NC-ND 4.0 license. Please submit your request via [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSfPfYq0bhjG4QRjssefrD5jM4F8obhYQG1XQxlaPlXqspFcAA/viewform?usp=sf_link).
-
 This task includes images from the following 15 major categories and 92 subcategories. The images are manually collected according to the following categories, with strict requirements that the content of the images is representative of or commonly seen in the Chinese cultural environment:
 
 <center>

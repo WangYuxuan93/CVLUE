@@ -14,9 +14,6 @@
 
 ## 评测数据
 
-CVLUE 数据在 CC BY-NC-ND 4.0 许可证下可免费申请获取。
-请通过[谷歌表格](https://docs.google.com/forms/d/e/1FAIpQLSfPfYq0bhjG4QRjssefrD5jM4F8obhYQG1XQxlaPlXqspFcAA/viewform?usp=sf_link)提交申请。
-
 本任务包含以下15大类、92小类的图片，图片收集均由人工按照以下类别收集，且严格要求图片内容为中国文化环境中具有代表性或日常生活常见：
 
 <center>
