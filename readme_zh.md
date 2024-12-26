@@ -227,7 +227,7 @@ CVLUE数据在CC BY-NC-ND 4.0许可证下可免费申请获取。请通过 [Goog
 ```
 @misc{wang-etal-2024-cvlue,
     title={CVLUE: A New Benchmark Dataset for Chinese Vision-Language Understanding Evaluation},
-    author={Yuxuan Wang and Yijun Liu and Fei Yu and Chen Huang and Kexin Li and Zhiguo Wan and Wanxiang Che},
+    author={Yuxuan Wang and Yijun Liu and Fei Yu and Chen Huang and Kexin Li and Zhiguo Wan and Wanxiang Che and Hongyang Chen},
     year={2024},
     eprint={2407.01081},
     archivePrefix={arXiv},
